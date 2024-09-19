@@ -8,3 +8,22 @@ body{
 }
 
 p {color: darkviolet;}
+
+.theli{
+   font-style: italic;
+}
+.img1 {
+    width: 50;
+}
+header{
+    border-bottom: gold;
+    padding: 20px;
+    font-size: 36px;
+    color: crimson;
+}
+section{
+    background-color: blue;
+    padding-bottom: 40px;
+    padding-top: 50px;
+    display: flex;
+}
